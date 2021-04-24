@@ -8,6 +8,7 @@ diverse Einzelheiten, wodurch ich meine eigenen Sectorfiles erstelle.
 # Airports
 * [EDDS] Stuttgart
 * [EDWI] JadeWeserAirport
+* [EDLW] Dortmund
 
 # Installation
 * Standartinstallation: **C:\Aurora\SectorFiles\Include\DE**
