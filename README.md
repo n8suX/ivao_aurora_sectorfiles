@@ -10,19 +10,19 @@ diverse Einzelheiten, wodurch ich meine eigenen Sectorfiles erstelle.
 * [EDWI] JadeWeserAirport
 
 # Installation
-Standartinstallation: **C:\Aurora\SectorFiles\Include\DE**
-Custominstallation: **[path]\Aurora\SectorFiles\Include\DE**
+* Standartinstallation: **C:\Aurora\SectorFiles\Include\DE**
+* Custominstallation: **[path]\Aurora\SectorFiles\Include\DE**
 
 # Website
 -.folgt.-
 
 # Vorraussetzungen
-IVAO Aurora Client 1.2.12b https://ivao.aero/softdev/beta/aurorabeta.asp
-Windows 32/64bit
+* IVAO Aurora Client 1.2.12b https://ivao.aero/softdev/beta/aurorabeta.asp
+* Windows 32/64bit
 
 # Update Client
 -.folgt.-
 
 # Links
-IVAO Official https://ivao.aero/
-IVAO Germany https://de.ivao.aero/
+* IVAO Official https://ivao.aero/
+* IVAO Germany https://de.ivao.aero/
