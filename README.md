@@ -1,13 +1,13 @@
 # IVAO AURORA HANDMADE SECTORFILES
-Willkomen auf meiner Repo zu "Handmade Sectorfiles"! IVAO ist ein virtuelles Netzwerk zum zusammen Fliegen in diversen
+Willkomen auf meiner Repo zu "**Handmade Sectorfiles**"! IVAO ist ein virtuelles Netzwerk zum zusammen Fliegen in diversen
 Simulatoren wie P3D, FSX, MSFS, X-Plane, etc.
 
 In Aurora gibt es vorinstallierte Repos für diverse Sectorfiles von IVAO. Da ich aktiv als Lotse unterwegs bin, fehlten mir 
 diverse Einzelheiten, wodurch ich meine eigenen Sectorfiles erstelle.
 
 # Installation
-Standartinstallation: C:\Aurora\SectorFiles\Include\DE
-Custominstallation: [path]\Aurora\SectorFiles\Include\DE
+Standartinstallation: **C:\Aurora\SectorFiles\Include\DE**
+Custominstallation: **[path]\Aurora\SectorFiles\Include\DE**
 
 # Website
 -.folgt.-
